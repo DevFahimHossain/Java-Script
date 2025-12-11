@@ -110,3 +110,15 @@ while (countdown >= 15) {
     console.log(countdown);
     countdown--;
 } 
+
+//Decremental Loop
+
+let numbers = 10;
+while (numbers >= 1) {
+    console.log(numbers);
+    numbers--;
+}
+
+
+
+
