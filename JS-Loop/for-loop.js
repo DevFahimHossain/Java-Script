@@ -13,3 +13,12 @@ for(let i = 67; i <= 97; i++) {
         console.log(i);
     }           
 }
+
+
+//sum
+let sum = 0;
+for(let i = 81; i <= 131; i++) {
+    sum= sum + i;
+}   
+console.log(sum);
+
